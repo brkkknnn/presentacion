@@ -28,11 +28,11 @@
 
 ## 📜 Certificaciones
 
-- 🏅 eJPTv2 (Obtenido)
+- 🏅 eJPT (Obtenido)
 - 📚 CCSP (Obtenido)
 - 🔒 Cisco IT Specialist Network Security (Obtenido)
 - 🚀 OSCP (En progreso)
-- 💻 eCPPTv3 (En progreso)
+- 💻 eCPPT (En progreso)
 
 ---
 

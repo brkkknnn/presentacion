@@ -20,7 +20,7 @@
 - **Hacking y Exploits:** Experto en técnicas de hacking ético y explotación de vulnerabilidades.
 - **Herramientas de Seguridad:** Metasploit, Burp Suite, Nmap, Nessus.
 - **Scripting y Programación:** Python, Bash.
-- **Realizar Auditorias de Seguridad:** Comocimiento para la realizacion de auditorias de seguridad satisfactoriamente
+- **Realizar Auditorias de Seguridad:** Conocimiento para la realizacion de auditorias de seguridad satisfactoriamente
 - **Simulaciones de Ataques:** Diseño y ejecución de escenarios de Red Team.
 - **Análisis de Vulnerabilidades:** Evaluación y mitigación de riesgos en sistemas y aplicaciones.
 

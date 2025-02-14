@@ -11,7 +11,7 @@
 - 🎓 **Educación:**
   - Máster Profesional en Dirección de Ciberseguridad, Hacking Ético y Seguridad Ofensiva (EIP International Business School - En curso, 2024).
   - Formación profesional superior en Administración de Sistemas y Big Data.
-- 🌱 Actualmente trabajando en **Redsys** como Operador de Sistemas (2024 - Presente).
+- 🌱 Actualmente trabajando en **OSTON SECURITY** como IT Risk Analyst (2025 - Presente).
 
 ---
 

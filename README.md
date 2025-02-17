@@ -29,8 +29,8 @@
 ## 📜 Certificaciones
 
 - 🏅 eJPT (Obtenido)
-- 📚 CCSP (Obtenido)
 - 🔒 Cisco IT Specialist Network Security (Obtenido)
+- 📚 CISM (En progreso)
 - 🚀 OSCP (En progreso)
 - 💻 eCPPT (En progreso)
 
